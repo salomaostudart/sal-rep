@@ -1,10 +1,5 @@
 function Home() {
-  return (
-    <h1>
-      Você é o cara! Obrigado por estar me ajudando a ser uma pessoa melhor e um
-      bom profissional. 💪
-    </h1>
-  );
+  return <h1>Mais um passo concluído. Este é o meu site oficial 💪</h1>;
 }
 
 export default Home;
